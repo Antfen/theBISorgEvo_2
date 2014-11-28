@@ -1,0 +1,28 @@
+/*Wide*/
+@media(max-width: 1220px) {
+    .header .logo {
+    margin-left: 0;
+    }
+   .exhibitior-press-release .exhibitior-main-img {
+    max-width: 500px;
+    margin-right: 15px;
+    }
+    span.image-responsive-mobile {
+        display: none;
+    }
+    span.image-responsive-narrow {
+        display: none;
+    }
+    span.image-responsive-normal {
+        display: none;
+    }
+    span.image-responsive-wide {
+        display: block;
+    }
+    span.image-responsive-large {
+        display: none;
+    }
+    .image-ie {
+        display: none;
+    }
+}

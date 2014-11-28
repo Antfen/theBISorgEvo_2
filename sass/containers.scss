@@ -1,0 +1,136 @@
+.main {
+width: 95%;
+margin: 0 2.5%;
+}
+.main h1.main-pg-title {
+padding-top: 20px;
+}
+.row {
+width: 100%;
+padding: 2.5% 0;
+margin-top: 25px;
+background-color: #f1f1f1;
+}
+.row .content-holder-40 {
+float: left;
+width: 40%;
+margin: 0;
+padding: 0 2.5%;
+}
+.row .content-holder-60 {
+float: left;
+width: 60%;
+margin: 0;
+padding: 0 2.5%;
+}
+.row .content-holder-100 {
+width: 100%;
+margin: 0;
+padding: 0 2.5%;
+}
+.row .content-holder-100 h1 {
+padding-top: 10px;
+padding-bottom: 2.5%;
+}
+.row .content-holder-100 h3 {
+margin-top: 25px;
+font-size: 1.8em;
+}
+.row .content-holder-100 .listed-links a, .row .content-holder-100 .listed-links a:hover {
+color: #000000;
+text-decoration: underline;
+font-weight: bold;
+}
+.row .content-holder-100 .listed-links a:hover {
+color: #666666;
+text-decoration: none;
+}
+.row .content-holder-100 .info-holder {
+padding: 2.5%;
+margin: 0 2.5% 2.5%;
+background-color: #ffffff;
+}
+.row .content-holder-100 .info-holder h3:first-child {
+margin-top: 0;
+}
+.row .content-holder-100 .info-holder ul {
+margin-left: 5%;
+}
+.row .content-holder-100 .info-holder ul li {
+list-style-type: circle;
+padding-left: 1.0%;
+padding-top: 10px;
+}
+.row-alt {
+width: 100%;
+padding: 2.5% 0;
+margin-top: 25px;
+background-color: #f1f1f1;
+}
+.row-alt .content-holder-60 {
+float: left;
+width: 60%;
+margin: 0;
+padding: 0 2.5%;
+}
+.row-alt .content-holder-40 {
+float: left;
+width: 40%;
+margin: 0;
+padding: 0 2.5%;
+}
+.row-alt .content-holder-50 {
+float: left;
+width: 46%;
+margin-left: 2.5%;
+padding: 2.5%;
+background-color: #ffffff;
+min-height: 400px;
+}
+.content-holder-100 .jury2014-container img {
+max-width: 200px;
+}
+.content-holder-100 .jury2014-container img.wth1 {
+max-width: 76px;
+}
+.content-holder-100 .jury2014-container img.wth2 {
+max-width: 126px;
+}
+.jury2014-container {
+width: auto;
+}
+.jury2014-container h3, .jury2014-container h4, .jury2014-container p.lead-info {
+text-align: center;
+}
+.jury2014-container h3 {
+font-weight: bold;
+}
+.jury2014-container h4 {
+margin-top: 0;
+}
+.jury2014-container p.lead-info {
+margin-top: 0;
+padding-top: 0;
+line-height: 0.9em;
+}
+.exhibition-list-individual-wrapper {
+margin: 25px 10%;
+}
+.exhibition-list-individual {
+border: 1px solid #666;
+padding: 20px;
+margin-bottom:5px; 
+}
+.exhibitior-press-release-wrapper {
+margin: 25px 10%;
+}
+.exhibitior-press-release {
+border: 1px solid #666;
+padding: 20px;
+margin-bottom:5px; 
+}
+.exhibitior-press-release .exhibitior-main-img {
+max-width: 550px; 
+height: auto; 
+float: left
+}

@@ -1,0 +1,18 @@
+/* IE 8 fix -- hides the responsive classes from IE8 */
+span.image-responsive-mobile {
+    display: none;
+}
+span.image-responsive-narrow {
+    display: none;
+}
+span.image-responsive-normal {
+    display: none;
+}
+span.image-responsive-wide {
+    display: none;
+}
+span.image-responsive-large {
+    display: none;
+}
+/* Then uses the class .image-ie to hide within media queries */
+/* IE 8 fix ends */

@@ -1,0 +1,32 @@
+.nav {
+float: right;
+text-align: right;
+width: 50%;
+margin-top: 10px;
+margin-right: 2%;
+}
+
+ul.nav li {
+display: inline-block;
+margin-left: 2.333%;
+
+	a {
+	color: #ffffff;
+	font-size: 1.4em;
+	}
+	a:hover {
+	color: #ccc;
+	}
+	a:after {
+	content: " |";
+	}
+	&:last-child a:after {
+	display: none;
+	}
+	&.mb-only {
+	display: none;
+	}
+}
+.slicknav_menu {
+	display:none;
+}

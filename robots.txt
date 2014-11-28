@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /associates/
+Disallow: /bis_media_links/
+Disallow: /clubs/
+Disallow: /images_safe/
+Disallow: /Library/
+Disallow: /links/
+Disallow: /login/
+Disallow: /members/
+Disallow: /micro/
+Disallow: /news/
+Disallow: /newsletter/
+Disallow: /newsroom/
+Disallow: /poll/
+Disallow: /register/
+Disallow: /safecopy/
+Disallow: /show/
+Disallow: /suppliers/
+Disallow: /Templates/
+Disallow: /trademarks/
+
+
+User-agent: googlebot
+Disallow: *.csi

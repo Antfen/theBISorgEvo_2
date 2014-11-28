@@ -1,0 +1,8 @@
+# RewriteEngine on
+# RewriteCond %{HTTP_HOST} ^(www.)?main\-thebis.org$ [NC]
+# RewriteCond %{REQUEST_URI} !^/sub\-micro/
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^(.*)$ /micro/$1
+# RewriteCond %{HTTP_HOST} ^(www.)?main\-thebis.org$ [NC]
+# RewriteRule ^(/)?$ micro/index.php [L]

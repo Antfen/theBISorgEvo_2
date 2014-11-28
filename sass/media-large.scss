@@ -1,0 +1,22 @@
+/*Large screens*/
+@media(min-width : 1220px) {
+
+    span.image-responsive-mobile {
+        display: none;
+    }
+    span.image-responsive-narrow {
+        display: none;
+    }
+    span.image-responsive-normal {
+        display: none;
+    }
+    span.image-responsive-wide {
+        display: none;
+    }
+    span.image-responsive-large {
+        display: block;
+    }
+    .image-ie {
+        display: none;
+    }
+}
