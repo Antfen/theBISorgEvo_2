@@ -36,7 +36,7 @@
 
 
                   <div class="footer-copyright-holder">
-                     <p>&copy; 2001-2014 British Inventors Society <i>All rights reserved</i></p>
+                     <p>&copy; 2001-2015 British Inventors Society <i>All rights reserved</i></p>
                   </div>
 
 
