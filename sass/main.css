@@ -815,6 +815,7 @@ ul.nav li {
   height: auto;
   float: left; }
 
+/*generic link styles*/
 a.link-normal, a.link-normal:hover {
   color: #000000;
   text-decoration: underline;
