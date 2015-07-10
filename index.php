@@ -28,8 +28,8 @@
             <b>The Savoy Hotel London</b>
             </p>
             <h2 class="morepadtop">British Invention Show &amp; Awards 2015</h2>
-            <p>22 - 23 - 24 - 25 October 2015<br>
-            <b>Locations yet to be confirmed</b></p>
+            <p>21 - 22 - 23 - 24 October 2015<br>
+            <b>Barbican Exhibition Centre</b></p>
          </span>
       </div>
       <div class="content-holder-60">
