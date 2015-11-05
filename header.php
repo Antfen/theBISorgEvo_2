@@ -7,7 +7,8 @@
       <title>The bis | British Inventor's Society</title>
       <META NAME="description" CONTENT="The British Inventors Society (BIS)  - leading inventors and innovators, academics and entrepreneurs who share a common belief - that invention is the vital spark that drives the world's technology and new orders of wealth creation.">
       <META NAME="keywords" CONTENT="The British Inventors Society, Inventors, British Inventors, Invention, invention, exhibition, innovation, invent, invented, inventing, expo, business, opportunity,  british, show, inventor, inventors, patent, patents, intellectual property, IP, IPI, copyright, copyrights, trade mark, trade marks, design, investor, kane kramer, prototype.">
-      <link rel="stylesheet" href="sass/main.css">
+      <link rel="stylesheet" href="build/main.css">
+      <script>build/global.min.js</script
    </head>
    <body class="body index clearfix">
 
