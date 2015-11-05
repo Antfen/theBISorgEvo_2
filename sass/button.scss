@@ -1,24 +1,19 @@
 .button-main {
   width: 80%;
-  margin: 25px 10% 0 10%;
-  background-color: #000000;
+  margin: 25px 10% 0 11%;
+  background-color: #000;
   text-align: center;
 }
 .button-main a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
+  font-size: 1.25em;
   line-height: 2em;
   display: block;
 }
 .button-main a:hover {
-  color: #cccccc;
+  color: #ccc;
   text-decoration: none;
-}
-.button-main-alt {
-  width: 80%;
-  margin: 15px 10%;
-  background-color: #000000;
-  text-align: center;
 }
 .button-main-alt a {
   color: #ffffff;
