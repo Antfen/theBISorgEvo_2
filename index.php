@@ -14,9 +14,9 @@
    display: block;
    }
 </style>
-<section class="main clearfix">
-   <div class="row clearfix">
-      <div class="content-holder-40">
+<div class="container-fluid">
+   <div class="row">
+      <div class="col-md-4">
          <span class="mb-center">
             <p class="para-welcome"><b>Welcome to</b></p>
             <h2>The British Inventor's Society</h2>
@@ -39,7 +39,7 @@
             <b>Barbican Exhibition Centre</b></p>
          </span>
       </div>
-      <div class="content-holder-60">
+      <div class="col-md-8">
          <span class="image-responsive-mobile"><img src="images/responsive-mobile/savoy-front-mobile.jpg" width="750px" height="502px" alt="The Savoy London"></span>
          <span class="image-responsive-narrow"><img src="images/responsive-narrow/savoy-front-narrow.jpg" width="800px" height="535px" alt="The Savoy London"></span>
          <span class="image-responsive-normal"><img src="images/responsive-normal/savoy-front-normal.jpg" width="1024px" height="685px" alt="The Savoy London"></span>
@@ -108,6 +108,6 @@
          </span>
       </div>
    </div>
-</section>
+</div>
 <?php include('footer.php')
    ?>
